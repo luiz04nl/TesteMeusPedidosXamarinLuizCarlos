@@ -39,6 +39,7 @@
     <Compile Include="Services\Interfaces\IPromotionsService.cs" />
     <Compile Include="Services\ProductsService.cs" />
     <Compile Include="Services\PromotionsService.cs" />
+    <Compile Include="Util\Util.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Newtonsoft.Json">

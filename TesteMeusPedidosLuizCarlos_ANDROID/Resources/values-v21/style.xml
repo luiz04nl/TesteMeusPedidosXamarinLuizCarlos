@@ -1,0 +1,5 @@
+﻿<resources>
+
+    <style name="MyTheme" parent="MyTheme.Base"></style>
+    
+</resources>
